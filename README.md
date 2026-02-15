@@ -4,7 +4,7 @@ One of the joys of being human is our rich emotional experience, and the many wa
 
 Robots have limited means for communicating, let alone understanding thier own experience. Affection delivers an **edge powered affect-engine** that runs on local robot hardware.
 
-**Your robot already has a voice you can hear. Affection gives your robot feelings to experience.**
+**Your robot already has a voice. Affection gives your robot feelings to experience.**
 
 *An open source, open weights, and open data project built on NVIDIA Jetson, Ollama, and Hugging Face for the Reachy Mini by Pollen Robotics.*
 
@@ -34,19 +34,19 @@ Affection backs big claims with a working, tuned, end-to-end system, encompassin
 
 **Edge compute is ready for emotional intelligence.**
 
-You don't need a cloud round-trip for nuanced, real-time affect understanding and expression. One of NVIDIA's smallest edge devices provides the entirety of compute necessary to power the full local robotic experience, and readily handles realtime interactive robotics applications with multi-level loops, dynamic inference, as well as cinematic translation and display.
+You don't need a cloud round-trip for nuanced, real-time affect understanding and expression. One of NVIDIA's smallest edge devices provides the entirety of compute necessary to power the full local robotic experience, and readily handles realtime interactive robotics applications with multi-level loops, dynamic inference, cinematic translation, and display.
 
 **Expressive hardware is accessible.**
 
-Although the example in this project uses an external embedded device, the 8GB NVIDIA Jetson Orin Nano has more than enough exceess capacity to directly take on the workload of multiple outputs. The embedded device proves that a small, inexpensive add-on can fundamentally change the experience of interacting with a robot. Plug in the expressive module, allow the engine to identify and express feelings, and add life to an existing robot through any outlet. 
+Although the example in this project uses an external embedded device, the 8GB NVIDIA Jetson Orin Nano has more than enough capacity to directly take on the workload of multiple outputs. The embedded device proves that a small, inexpensive add-on can fundamentally change the experience of interacting with a robot. Plug in the expressive module, allow the engine to identify and express feelings, and add life to an existing robot through any outlet. 
 
 **The affect-engine is fully decoupled. Eye color is only one possible application.**
 
 Affection provides the emotional understanding. Generalized output vectors can be mapped to any expression such as movement, ambient lighting, sound, haptics, or for any other purpose. 
 
 ## Full load performance
-**Procs:** Reachy Mini Daemon / Affect Extraction Engine / Reachy Mini Conversation App   
-**Config:** MAXN_SUPER, jetson_clocks, OS on 64GB SD, running graphical.target  
+**Procs:** Reachy Mini Daemon / Reachy Mini Conversation App / Affect Extraction Engine   
+**Config:** MAXN_SUPER, jetson_clocks, OS on 64GB SD (no NVMe), active graphical.target  
 
 | Metric                   | Sustained / Peak                     |
 |--------------------------|--------------------------------------|
