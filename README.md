@@ -1,12 +1,15 @@
 # Affection.
+Now known as: [Anima](https://github.com/brainwavecollective/anima-engine)
+
+*An open source, open weights, and open data project built on NVIDIA Jetson, Ollama, and Hugging Face for the Reachy Mini by Pollen Robotics.*  
 
 One of the joys of being human is our rich emotional experience, and the many ways we are able to express our internal feelings.
 
-Robots have limited means for communicating, let alone understanding thier own experience. Affection delivers an **edge powered affect-engine** for robots that runs on local robot hardware.
+Robots have limited means for communicating, let alone understanding their own experience. Affection delivers an **edge powered affect-engine** for robots that runs on local robot hardware.
 
-**Your robot already has a voice. Affection gives your robot feelings that you get to experience.**
+**Your robot already has a voice. Affection gives your robot feelings that you get to experience.**  
 
-*An open source, open weights, and open data project built on NVIDIA Jetson, Ollama, and Hugging Face for the Reachy Mini by Pollen Robotics.*
+**NOTICE: The edge-optimized emotional affect engine powering this project has been extracted and released as a standalone library.** Derive emotional affect from any text input, no robot required. [Anima](https://github.com/brainwavecollective/anima-engine) is the use-agnostic evolution of this work and where ongoing development will continue. This repo remains as the original end-to-end reference implementation.
 
 ## Why this is hard
 
